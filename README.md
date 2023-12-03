@@ -2,7 +2,9 @@
 Takes a PDF file and converts it into a MP3 file so you can listen to it.
 
 ## Setup
-This is built for Windows, use command prompt.
+Place your PDF file in the root directory.
+
+The following commands work for Window's command prompt.
 1. Run the setup script
 ```
 setup.bat
